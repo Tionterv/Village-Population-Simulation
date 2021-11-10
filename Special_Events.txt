@@ -1,0 +1,11 @@
+20	Someone poisoned the water supply.
+-1	You stumbled upon a deserted caravan full of supplies.
+15	You were ambushed by a disfigured troll, but he was defeated eventually.
+0	You received a gift of fortune with lots of gold.
+-1	A benevolent hunter appeared and donated his supplies.
+10	They were all strucked by a deadly lightning that you summoned.
+0	You found a burried treasure chest filled with gold.
+100	You were attacked by a magical dragon, however, the sorcerers have defeated it.
+0	A mystical angel blessed you with good fortune.
+20	A large boulder fell out of the sky and destroyed a couple of houses.
+0	Amazing luck, just take my money.	
